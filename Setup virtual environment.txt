@@ -1,0 +1,13 @@
+Setup virtual environment:
+conda create -p venv python==3.10 -y (-y signify all the default downloads needed)
+
+
+To activate :
+conda activate venv/
+
+
+To install all the needed requirements:
+pip install -r requirements.txt
+
+
+
